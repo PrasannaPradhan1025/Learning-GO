@@ -1,0 +1,4 @@
+Some potential resources:
+https://quii.gitbook.io/learn-go-with-tests
+https://gobyexample.com/
+https://courses.calhoun.io/courses/cor_gophercises#sec_goph_01
